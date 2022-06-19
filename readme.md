@@ -8,7 +8,7 @@ Comecei a realizar esse projeto, para estudar mais sobre chamadas de API e encon
 
 Esse Projeto lista os pokemons da API.
 
-Layout desse projeto no [figma](https://www.figma.com/file/THLxZSlOoUYMZrjFg0Kl1M/Pokédex?node-id=18241%3A2789)
+Layout pokedex no [figma](https://www.figma.com/file/THLxZSlOoUYMZrjFg0Kl1M/Pokédex?node-id=18241%3A2789)
 
 ---
 
