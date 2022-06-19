@@ -36,10 +36,6 @@ O projeto foi feito utilizando as seguintes tecnologias:
 ## <b>Prints</b> 
 
 <h1 align="center">
-    <img src="./assets/pokedex.gif" width="30%">
-</h1>
-
-<h1 align="center">
     <img src="./assets/screen01.png" width="30%">
     <img src="./assets/screen02.png" width="30%">
     <img src="./assets/screen03.png" width="30%">
