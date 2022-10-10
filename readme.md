@@ -44,4 +44,3 @@ O projeto foi feito utilizando as seguintes tecnologias:
 
 ---
 
-### <b>🚧 👩🏻‍💻 Projeto em construção ainda... 👩🏻‍💻 🚧</b>
